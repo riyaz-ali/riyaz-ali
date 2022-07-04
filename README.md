@@ -7,7 +7,6 @@ This is Riyaz, I'm a software developer [@taghash](https://taghash.io)
 - 👯 I’m looking to collaborate more on Golang & Node.js based projects
 - 💬 Ask me about building developer experiences and views on [modular monoliths](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 - 📫 You can reach me at me@riyazali.net or [@riyaz2302](https://twitter.com/riyaz2302) on Twitter
-- 😄 Pronouns: He/Him
 
 #### Latest blog posts
 

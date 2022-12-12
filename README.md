@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Riyaz, I'm a software developer [@taghash](https://taghash.io)
+This is Riyaz, I'm a software developer [@mergestat](https://www.mergestat.com)
 
 - 🔭 I’m currently working on Node.js & Golang
 - 🚢 I deploy my code on AWS with Azure DevOps / Github Actions
